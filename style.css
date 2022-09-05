@@ -41,7 +41,7 @@ body {
   border-radius: 50px;
 }
 #topdiv {
-  background: url("./images/image-header.jpg");
+  background: url("images/image-header.jpg");
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -112,7 +112,7 @@ body {
 #eggimage {
   width: 50%;
 
-  background: url("./images/egg.jpg");
+  background: url("images/egg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -125,7 +125,7 @@ body {
   height: 50vh;
 }
 #cupimage {
-  background: url("./images/image-stand-out.jpg");
+  background: url("images/image-stand-out.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 50%;
@@ -154,7 +154,7 @@ body {
   padding-bottom: 20px;
 }
 #peachside {
-  background: url("./images/image-graphic-design.jpg");
+  background: url("images/image-graphic-design.jpg");
 }
 #peachside,
 #orangeside {
@@ -171,7 +171,7 @@ body {
   height: 50vh;
 }
 #orangeside {
-  background: url("./images/image-photography.jpg");
+  background: url("images/image-photography.jpg");
 }
 #client-testimonials {
   display: flex;
